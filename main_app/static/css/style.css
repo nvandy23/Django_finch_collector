@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+  
+  main {
+    flex: 1 0 auto;
+  }
+  header.navbar-fixed {
+    background-color: #2196F3 !important; /* Your desired color */
+}
+  
+  footer.page-footer {
+    background-color: #2196F3;
+    padding-top: 0;
+    text-align: right;
+  }
